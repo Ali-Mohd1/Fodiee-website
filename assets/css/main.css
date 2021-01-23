@@ -223,7 +223,6 @@ nav {
 /* Home Section */
 .home-wrapper {
   padding-top: 83px;
-  grid-template-columns: repeat(auto-fit, minmax(min(550px, 100%), 1fr));
   height: 100%;
   min-height: 100vh;
   align-items: center;
