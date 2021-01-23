@@ -33,7 +33,7 @@ btn.on('click', function(e) {
     // Reveal animation
     const sr = ScrollReveal({
         origin: 'top',
-        distance: '40px',
+        distance: '20px',
         duration: 1500,
         reset: true
     });

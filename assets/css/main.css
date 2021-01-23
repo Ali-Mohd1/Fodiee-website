@@ -68,7 +68,7 @@ input:focus {
 }
 /* Classes */
 .ptb-80 {
-  padding: 80px 0;
+  padding: 100px 0;
 }
 .container {
   width: 100%;
@@ -476,10 +476,6 @@ footer {
   .search-food {
     width: 100%;
   }
-  .search-food .btn {
-    margin-right: 0px;
-    margin-left: -59px;
-  }
   .social-icons {
     margin-top: 30px;
     justify-content: center;
@@ -542,7 +538,7 @@ footer {
     padding: 0 20px;
   }
   .ptb-80 {
-    padding: 60px 0;
+    padding: 80px 0;
   }
   .home {
     padding: 50px 0;
